@@ -1,0 +1,11 @@
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\event\EspecieRegistrada.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\exception\EspecieYaExisteException.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\Especie.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\EspecieFactory.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\EspecieId.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\ExamenMedico.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\Habitat.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\model\NombreCientifico.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\service\RegistroEspecieService.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\service\RegistroEspecieServiceImpl.java
+C:\Users\Miguel Angel\Desktop\zoogest\src\main\java\com\zoogest\domain\specification\EspecieCompatibleConHabitatSpecification.java

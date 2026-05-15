@@ -1,0 +1,11 @@
+com\zoogest\domain\model\Especie.class
+com\zoogest\domain\model\EspecieId.class
+com\zoogest\domain\model\Habitat.class
+com\zoogest\domain\service\RegistroEspecieServiceImpl.class
+com\zoogest\domain\event\EspecieRegistrada.class
+com\zoogest\domain\exception\EspecieYaExisteException.class
+com\zoogest\domain\model\ExamenMedico.class
+com\zoogest\domain\service\RegistroEspecieService.class
+com\zoogest\domain\model\EspecieFactory.class
+com\zoogest\domain\model\NombreCientifico.class
+com\zoogest\domain\specification\EspecieCompatibleConHabitatSpecification.class
